@@ -6,80 +6,68 @@ exports.allmenu = (prefix) => {
 Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 
 *👤 OWNER MENU*
-⚘👾 ${prefix}setmenu
-⚘👾 ${prefix}join [link]
-⚘👾 ${prefix}leave
-⚘👾 ${prefix}self
-⚘👾 ${prefix}public
-⚘👾 ${prefix}setppbot
-⚘👾 ${prefix}block @user
-⚘👾 ${prefix}unblock @user
-⚘👾 ${prefix}bc
-⚘👾 ${prefix}bcgc
-⚘👾 ${prefix}setcmd [reply sticker/pesan]
-⚘👾 ${prefix}delcmd [reply sticker/pesan]
-⚘👾 ${prefix}listcmd
-⚘👾 ${prefix}lockcmd
-⚘👾 ${prefix}promosi
+⚘🉐 ${prefix}setmenu
+⚘🉐 ${prefix}join [link]
+⚘🉐 ${prefix}leave
+⚘🉐 ${prefix}self
+⚘🉐 ${prefix}public
+⚘🉐 ${prefix}setppbot
+⚘🉐 ${prefix}block @user
+⚘🉐 ${prefix}unblock @user
+⚘🉐 ${prefix}bc
+⚘🉐 ${prefix}bcgc
+⚘🉐 ${prefix}setcmd [reply sticker/pesan]
+⚘🉐 ${prefix}delcmd [reply sticker/pesan]
+⚘🉐 ${prefix}listcmd
+⚘🉐 ${prefix}lockcmd
+⚘🉐 ${prefix}promosi
 
 *👥 GROUP MENU*
-⚘👾 ${prefix}antilink
-⚘👾 ${prefix}antiwame
-⚘👾 ${prefix}antivirtex
-⚘👾 ${prefix}nsfw
-⚘👾 ${prefix}afk [alasan]
-⚘👾 ${prefix}tagall
-⚘👾 ${prefix}hidetag
-⚘👾 ${prefix}absen
-⚘👾 ${prefix}hadir
-⚘👾 ${prefix}tidakhadir
-⚘👾 ${prefix}cekabsen
-⚘👾 ${prefix}hapusabsen
-⚘👾 ${prefix}linkgroup
-⚘👾 ${prefix}revoke
-⚘👾 ${prefix}ephemeral [option]
-⚘👾 ${prefix}setppgc
-⚘👾 ${prefix}setname [text]
-⚘👾 ${prefix}group [option]
-⚘👾 ${prefix}add @user
-⚘👾 ${prefix}kick @user
-⚘👾 ${prefix}promote @user
-⚘👾 ${prefix}demote @user
+⚘☣ ${prefix}antilink
+⚘☣ ${prefix}antiwame
+⚘☣ ${prefix}antivirtex
+⚘☣ ${prefix}nsfw
+⚘☣ ${prefix}afk [alasan]
+⚘☣ ${prefix}tagall
+⚘☣ ${prefix}hidetag
+⚘☣ ${prefix}absen
+⚘☣ ${prefix}hadir
+⚘☣ ${prefix}tidakhadir
+⚘☣ ${prefix}cekabsen
+⚘☣ ${prefix}hapusabsen
+⚘☣ ${prefix}linkgroup
+⚘☣ ${prefix}revoke
+⚘☣ ${prefix}ephemeral [option]
+⚘☣ ${prefix}setppgc
+⚘☣ ${prefix}setname [text]
+⚘☣ ${prefix}group [option]
+⚘☣ ${prefix}add @user
+⚘☣ ${prefix}kick @user
+⚘☣ ${prefix}promote @user
+⚘☣ ${prefix}demote @user
 
 *📦 DOWNLOAD MENU*
-⚘👾 ${prefix}tiktok [url]
-⚘👾 ${prefix}tiktokwm [url]
-⚘👾 ${prefix}tiktoknowm [url]
-⚘👾 ${prefix}tiktokaudio [url]
-⚘👾 ${prefix}instagram [url]
-⚘👾 ${prefix}twitter [url]
-⚘👾 ${prefix}facebook [url]
-⚘👾 ${prefix}ytmp4 [url]
-⚘👾 ${prefix}ytmp3 [url]
-⚘👾 ${prefix}play [judul]
-⚘👾 ${prefix}ytsearch [judul]
-⚘👾 ${prefix}gitclone
+📲 ${prefix}tiktok [url]
+📲 ${prefix}tiktokwm [url]
+📲 ${prefix}tiktoknowm [url]
+📲 ${prefix}tiktokaudio [url]
+📲 ${prefix}instagram [url]
+📲 ${prefix}ytmp4 [url]
+📲 ${prefix}ytmp3 [url]
+📲 ${prefix}play [judul]
 
 *🔎 SEARCH MENU*
-⚘👾 ${prefix}pinterest [query]
-⚘👾 ${prefix}pantun
-⚘👾 ${prefix}google [query]
-⚘👾 ${prefix}gimage [query]
-⚘👾 ${prefix}kbbi [query]
-⚘👾 ${prefix}igstalk [username]
-⚘👾 ${prefix}ghstalk [username]
-
-*🗞️ INFORMASI MENU*
-⚘👾 ${prefix}infogempa
-⚘👾 ${prefix}faktaunik
-⚘👾 ${prefix}ssweb
+⚘🎲 ${prefix}pinterest [query]
+⚘🎲 ${prefix}pantun
+⚘🎲 ${prefix}google [query]
+⚘🎲 ${prefix}gimage [query]
 
 *✍️ NULIS MENU*
-⚘👾 ${prefix}nulisbiasa
-⚘👾 ${prefix}nuliskanan
-⚘👾 ${prefix}nuliskiri
-⚘👾 ${prefix}foliokanan
-⚘👾 ${prefix}foliokiri
+⚘🪄 ${prefix}nulisbiasa
+⚘🪄 ${prefix}nuliskanan
+⚘🪄 ${prefix}nuliskiri
+⚘🪄 ${prefix}foliokanan
+⚘🪄 ${prefix}foliokiri
 
 *👭 ASUPAN MENU*
 ⚘👾 ${prefix}hijaber
@@ -100,17 +88,17 @@ Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 ⚘👾 ${prefix}malaysia
 
 *🎙️ VOICE CHANGER*
-⚘👾 ${prefix}bass
-⚘👾 ${prefix}blown
-⚘👾 ${prefix}deep
-⚘👾 ${prefix}earrape
-⚘👾 ${prefix}fast
-⚘👾 ${prefix}fat
-⚘👾 ${prefix}nightcore
-⚘👾 ${prefix}reverse
-⚘👾 ${prefix}robot
-⚘👾 ${prefix}slow
-⚘👾 ${prefix}tupai
+⚘🖇 ${prefix}bass
+⚘🖇 ${prefix}blown
+⚘🖇 ${prefix}deep
+⚘🖇 ${prefix}earrape
+⚘🖇 ${prefix}fast
+⚘🖇 ${prefix}fat
+⚘🖇 ${prefix}nightcore
+⚘🖇 ${prefix}reverse
+⚘🖇 ${prefix}robot
+⚘🖇 ${prefix}slow
+⚘🖇 ${prefix}tupai
 
 *📸 EPHOTO MENU*
 ⚘👾 ${prefix}3dnature
@@ -134,40 +122,40 @@ Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 ⚘👾 ${prefix}angels-wings 
 
 *🎮 FUN MENU*
-⚘👾 ${prefix}truth
-⚘👾 ${prefix}dare
-⚘👾 ${prefix}bagaimanakah [teks]
-⚘👾 ${prefix}kapankah [teks]
-⚘👾 ${prefix}dimanakah [teks]
-⚘👾 ${prefix}suit [✌️/✊/✋]
-⚘👾 ${prefix}aduayam [🐥/🐤🐓/🐣/🦃]
-⚘👾 ${prefix}suitpvp [tag user]
-⚘👾 ${prefix}ttt
-⚘👾 ${prefix}delttt
+⚘📌 ${prefix}truth
+⚘📌 ${prefix}dare
+⚘📌 ${prefix}bagaimanakah [teks]
+⚘📌 ${prefix}kapankah [teks]
+⚘📌 ${prefix}dimanakah [teks]
+⚘📌 ${prefix}suit [✌️/✊/✋]
+⚘📌 ${prefix}aduayam [🐥/🐤🐓/🐣/🦃]
+⚘📌 ${prefix}suitpvp [tag user]
+⚘📌 ${prefix}ttt
+⚘📌 ${prefix}delttt
 
 *🎰 GAME MENU*
-⚘👾 ${prefix}tebak lagu
-⚘👾 ${prefix}tebak gambar
-⚘👾 ${prefix}tebak kata
-⚘👾 ${prefix}tebak kalimat
-⚘👾 ${prefix}tebak lirik
-⚘👾 ${prefix}tebak lontong
-⚘👾 ${prefix}kuismath
+⚘🔮 ${prefix}tebak lagu
+⚘🔮 ${prefix}tebak gambar
+⚘🔮 ${prefix}tebak kata
+⚘🔮 ${prefix}tebak kalimat
+⚘🔮 ${prefix}tebak lirik
+⚘🔮 ${prefix}tebak lontong
+⚘🔮 ${prefix}kuismath
 
 *🎡 RANDOM MENU*
-⚘👾 ${prefix}darkjokes
-⚘👾 ${prefix}meme
-⚘👾 ${prefix}quotes
-⚘👾 ${prefix}quotes2
-⚘👾 ${prefix}katabijak
-⚘👾 ${prefix}wallgaming
-⚘👾 ${prefix}wallpentol
-⚘👾 ${prefix}wallcogan
-⚘👾 ${prefix}wallcecan
-⚘👾 ${prefix}wallestetik
-⚘👾 ${prefix}wallislami
-⚘👾 ${prefix}wallbkackpink
-⚘👾 ${prefix}wallpaperanime
+⚘🧿 ${prefix}darkjokes
+⚘🧿 ${prefix}meme
+⚘🧿 ${prefix}quotes
+⚘🧿 ${prefix}quotes2
+⚘🧿 ${prefix}katabijak
+⚘🧿 ${prefix}wallgaming
+⚘🧿 ${prefix}wallpentol
+⚘🧿 ${prefix}wallcogan
+⚘🧿 ${prefix}wallcecan
+⚘🧿 ${prefix}wallestetik
+⚘🧿 ${prefix}wallislami
+⚘🧿 ${prefix}wallbkackpink
+⚘🧿 ${prefix}wallpaperanime
 
 *⛩️ ANIME MENU*
 ⚘👾 ${prefix}quotesanime
@@ -205,39 +193,39 @@ Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 ⚘👾 ${prefix}handhold
 
 *🔞 NSFW MENU*
-⚘👾 ${prefix}ahegeo
-⚘👾 ${prefix}ass
-⚘👾 ${prefix}bdsm
-⚘👾 ${prefix}blowjob
-⚘👾 ${prefix}cuckold 
-⚘👾 ${prefix}cum 
-⚘👾 ${prefix}ero
-⚘👾 ${prefix}femdom
-⚘👾 ${prefix}foot
-⚘👾 ${prefix}gangbang
-⚘👾 ${prefix}glasses
-⚘👾 ${prefix}hentai
-⚘👾 ${prefix}ahy
-⚘👾 ${prefix}mstb
-⚘👾 ${prefix}neko
-⚘👾 ${prefix}orgy
-⚘👾 ${prefix}panties
-⚘👾 ${prefix}pussy
-⚘👾 ${prefix}yuri
-⚘👾 ${prefix}zettai
+⚘⛔ ${prefix}ahegeo
+⚘⛔ ${prefix}ass
+⚘⛔ ${prefix}bdsm
+⚘⛔ ${prefix}blowjob
+⚘⛔ ${prefix}cuckold 
+⚘⛔ ${prefix}cum 
+⚘⛔ ${prefix}ero
+⚘⛔ ${prefix}femdom
+⚘⛔ ${prefix}foot
+⚘⛔ ${prefix}gangbang
+⚘⛔ ${prefix}glasses
+⚘⛔ ${prefix}hentai
+⚘⛔ ${prefix}ahy
+⚘⛔ ${prefix}mstb
+⚘⛔ ${prefix}neko
+⚘⛔ ${prefix}orgy
+⚘⛔ ${prefix}panties
+⚘⛔ ${prefix}pussy
+⚘⛔ ${prefix}yuri
+⚘⛔ ${prefix}zettai
 
 *🎨 MAKER MENU*
-⚘👾 ${prefix}toimage
-⚘👾 ${prefix}smeme
-⚘👾 ${prefix}smeme2
-⚘👾 ${prefix}sticker
-⚘👾 ${prefix}tovideo
-⚘👾 ${prefix}togif
-⚘👾 ${prefix}tourl
-⚘👾 ${prefix}emojimix 😎+😂
-⚘👾 ${prefix}readmore
-⚘👾 ${prefix}ttp [teks]
-⚘👾 ${prefix}semoji [emoji]
+⚘☢ ${prefix}toimage
+⚘☢ ${prefix}smeme
+⚘☢ ${prefix}smeme2
+⚘☢ ${prefix}sticker
+⚘☢ ${prefix}tovideo
+⚘☢ ${prefix}togif
+⚘☢ ${prefix}tourl
+⚘☢ ${prefix}emojimix 😎+😂
+⚘☢ ${prefix}readmore
+⚘☢ ${prefix}ttp [teks]
+⚘☢ ${prefix}semoji [emoji]
 
 *👨‍🎨 TEXTPRO MENU*
 ⚘👾 ${prefix}serti1 [teks]
@@ -257,22 +245,13 @@ Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 ⚘👾 ${prefix}tahta [teks]
 
 *☕ OTHER MENU*
-⚘👾 ${prefix}simi [teks]
-⚘👾 ${prefix}ping
-⚘👾 ${prefix}owner
-⚘👾 ${prefix}creator
-⚘👾 ${prefix}menu / ${prefix}help / ${prefix}?
-⚘👾 ${prefix}delete
-⚘👾 ${prefix}sc
-⚘👾 ${prefix}tqto
-⚘👾 ${prefix}donasi
-⚘👾 ${prefix}rules
-⚘👾 ${prefix}sewabot
-⚘👾 ${prefix}listgc
-⚘👾 ${prefix}liston
-⚘👾 ${prefix}liston
-⚘👾 ${prefix}report
-⚘👾 ${prefix}req
+⚘💸 ${prefix}simi [teks]
+⚘💸 ${prefix}ping
+⚘💸 ${prefix}owner
+⚘💸 ${prefix}creator
+⚘💸 ${prefix}menu / ${prefix}help / ${prefix}?
+⚘💸 ${prefix}delete
+⚘💸 ${prefix}sc
 `
 }
 
