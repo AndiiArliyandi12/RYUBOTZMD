@@ -13,7 +13,5 @@ mengerjakan kebaikan seberat
 zarrah, niscaya dia akan melihat 
 (balasan)nya,
 
-contact owner :
-wa.me/6285609233482 (Owner)
 `
 }
