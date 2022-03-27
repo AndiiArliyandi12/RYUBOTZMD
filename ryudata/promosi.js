@@ -34,6 +34,6 @@ exports.promosi5 = () => {
 	return`Ready Meki Murah
 
 Minat Chat
-wa.me/6285609233482
+wa.me/-
 `
 }
