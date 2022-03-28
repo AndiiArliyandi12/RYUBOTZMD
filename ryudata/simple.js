@@ -8,31 +8,31 @@ exports.simple = (pushname, ucapanWaktu, prefix) => {
 	return`*Halo Kak ${pushname} 👋*
 *${ucapanWaktu}*
 
-Berikut List Menu Yang Tersedia Di *RyuBotz MD*
+Berikut List Menu Yang Tersedia !
 
-⚘👾 ${prefix}allmenu
-⚘👾 ${prefix}ownermenu
-⚘👾 ${prefix}groupmenu
-⚘👾 ${prefix}downloadmenu
-⚘👾 ${prefix}searchmenu
-⚘👾 ${prefix}nulismenu
-⚘👾 ${prefix}infomenu
-⚘👾 ${prefix}asupanmenu
-⚘👾 ${prefix}cecanmenu
-⚘👾 ${prefix}cecanmenu
-⚘👾 ${prefix}voicemenu
-⚘👾 ${prefix}ephotomenu
-⚘👾 ${prefix}photooxymenu
-⚘👾 ${prefix}funmenu
-⚘👾 ${prefix}gamemenu
-⚘👾 ${prefix}randommenu
-⚘👾 ${prefix}animemenu
-⚘👾 ${prefix}nsfwmenu
-⚘👾 ${prefix}makermenu
-⚘👾 ${prefix}textpromenu
-⚘👾 ${prefix}othermenu
+❥ࣲ፝֟͜͡◔⃟➣ ${prefix}allmenu
+❥ࣲ፝֟͜͡◔⃟➣ ${prefix}ownermenu
+❥ࣲ፝֟͜͡◔⃟➣ ${prefix}groupmenu
+❥ࣲ፝֟͜͡◔⃟➣ ${prefix}downloadmenu
+❥ࣲ፝֟͜͡◔⃟➣ ${prefix}searchmenu
+❥ࣲ፝֟͜͡◔⃟➣ ${prefix}nulismenu
+❥ࣲ፝֟͜͡◔⃟➣ ${prefix}infomenu
+❥ࣲ፝֟͜͡◔⃟➣ ${prefix}asupanmenu
+❥ࣲ፝֟͜͡◔⃟➣ ${prefix}cecanmenu
+❥ࣲ፝֟͜͡◔⃟➣ ${prefix}cecanmenu
+❥ࣲ፝֟͜͡◔⃟➣ ${prefix}voicemenu
+❥ࣲ፝֟͜͡◔⃟➣ ${prefix}ephotomenu
+❥ࣲ፝֟͜͡◔⃟➣ ${prefix}photooxymenu
+❥ࣲ፝֟͜͡◔⃟➣ ${prefix}funmenu
+❥ࣲ፝֟͜͡◔⃟➣ ${prefix}gamemenu
+❥ࣲ፝֟͜͡◔⃟➣ ${prefix}randommenu
+❥ࣲ፝֟͜͡◔⃟➣ ${prefix}animemenu
+❥ࣲ፝֟͜͡◔⃟➣ ${prefix}nsfwmenu
+❥ࣲ፝֟͜͡◔⃟➣ ${prefix}makermenu
+❥ࣲ፝֟͜͡◔⃟➣ ${prefix}textpromenu
+❥ࣲ፝֟͜͡◔⃟➣ ${prefix}othermenu
 
-Gunakan Dengan Bijak 😁
+❥ࣲ፝֟͜͡◔⃟➣ ᴘʀɪᴠᴀᴛᴇ 𝕭𝕯ᴮᴷᴾ ㊧
 `
 }
 
@@ -56,21 +56,21 @@ exports.sowner = (prefix) => {
 Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 
 *👤 OWNER MENU*
-⚘👾 ${prefix}setmenu
-⚘👾 ${prefix}join [link]
-⚘👾 ${prefix}leave
-⚘👾 ${prefix}self
-⚘👾 ${prefix}public
-⚘👾 ${prefix}setppbot
-⚘👾 ${prefix}block @user
-⚘👾 ${prefix}unblock @user
-⚘👾 ${prefix}bc
-⚘👾 ${prefix}bcgc
-⚘👾 ${prefix}setcmd [reply sticker/pesan]
-⚘👾 ${prefix}delcmd [reply sticker/pesan]
-⚘👾 ${prefix}listcmd
-⚘👾 ${prefix}lockcmd
-⚘👾 ${prefix}promosi
+☣ ${prefix}setmenu
+☣ ${prefix}join [link]
+☣ ${prefix}leave
+☣ ${prefix}self
+☣ ${prefix}public
+☣ ${prefix}setppbot
+☣ ${prefix}block @user
+☣ ${prefix}unblock @user
+☣ ${prefix}bc
+☣ ${prefix}bcgc
+☣ ${prefix}setcmd [reply sticker/pesan]
+☣ ${prefix}delcmd [reply sticker/pesan]
+☣ ${prefix}listcmd
+☣ ${prefix}lockcmd
+☣ ${prefix}promosi
 `
 }
 
@@ -80,28 +80,28 @@ exports.sgrup = (prefix) => {
 Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 
 *👥 GROUP MENU*
-⚘👾 ${prefix}antilink
-⚘👾 ${prefix}antiwame
-⚘👾 ${prefix}antivirtex
-⚘👾 ${prefix}nsfw
-⚘👾 ${prefix}afk [alasan]
-⚘👾 ${prefix}tagall
-⚘👾 ${prefix}hidetag
-⚘👾 ${prefix}absen
-⚘👾 ${prefix}hadir
-⚘👾 ${prefix}tidakhadir
-⚘👾 ${prefix}cekabsen
-⚘👾 ${prefix}hapusabsen
-⚘👾 ${prefix}linkgroup
-⚘👾 ${prefix}revoke
-⚘👾 ${prefix}ephemeral [option]
-⚘👾 ${prefix}setppgc
-⚘👾 ${prefix}setname [text]
-⚘👾 ${prefix}group [option]
-⚘👾 ${prefix}add @user
-⚘👾 ${prefix}kick @user
-⚘👾 ${prefix}promote @user
-⚘👾 ${prefix}demote @user
+🉐 ${prefix}antilink
+🉐 ${prefix}antiwame
+🉐 ${prefix}antivirtex
+🉐 ${prefix}nsfw
+🉐 ${prefix}afk [alasan]
+🉐 ${prefix}tagall
+🉐 ${prefix}hidetag
+🉐 ${prefix}absen
+🉐 ${prefix}hadir
+🉐 ${prefix}tidakhadir
+🉐 ${prefix}cekabsen
+🉐 ${prefix}hapusabsen
+🉐 ${prefix}linkgroup
+🉐 ${prefix}revoke
+🉐 ${prefix}ephemeral [option]
+🉐 ${prefix}setppgc
+🉐 ${prefix}setname [text]
+🉐 ${prefix}group [option]
+🉐 ${prefix}add @user
+🉐 ${prefix}kick @user
+🉐 ${prefix}promote @user
+🉐 ${prefix}demote @user
 `
 }
 
@@ -262,16 +262,16 @@ exports.sfun = (prefix) => {
 Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 
 *🎮 FUN MENU*
-⚘👾 ${prefix}truth
-⚘👾 ${prefix}dare
-⚘👾 ${prefix}bagaimanakah
-⚘👾 ${prefix}kapankah
-⚘👾 ${prefix}dimanakah
-⚘👾 ${prefix}suit [✌️/✊/✋]
-⚘👾 ${prefix}aduayam [🐤/🐓/🐥/🐣/🦃]
-⚘👾 ${prefix}suitpvp [tag user]
-⚘👾 ${prefix}ttt
-⚘👾 ${prefix}delttt
+🔮 ${prefix}truth
+🔮 ${prefix}dare
+🔮 ${prefix}bagaimanakah
+🔮 ${prefix}kapankah
+🔮 ${prefix}dimanakah
+🔮 ${prefix}suit [✌️/✊/✋]
+🔮 ${prefix}aduayam [🐤/🐓/🐥/🐣/🦃]
+🔮 ${prefix}suitpvp [tag user]
+🔮 ${prefix}ttt
+🔮 ${prefix}delttt
 `
 }
 
@@ -281,13 +281,13 @@ exports.sgame = (prefix) => {
 Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 
 *🎰 GAME MENU*
-⚘👾 ${prefix}tebak lagu
-⚘👾 ${prefix}tebak gambar
-⚘👾 ${prefix}tebak kata
-⚘👾 ${prefix}tebak kalimat
-⚘👾 ${prefix}tebak lirik
-⚘👾 ${prefix}tebak lontong
-⚘👾 ${prefix}kuismath
+🧿 ${prefix}tebak lagu
+🧿 ${prefix}tebak gambar
+🧿 ${prefix}tebak kata
+🧿 ${prefix}tebak kalimat
+🧿 ${prefix}tebak lirik
+🧿 ${prefix}tebak lontong
+🧿 ${prefix}kuismath
 `
 }
 
@@ -439,23 +439,13 @@ Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 ⚘👾 ${prefix}creator
 ⚘👾 ${prefix}menu / ${prefix}help / ${prefix}?
 ⚘👾 ${prefix}delete
-⚘👾 ${prefix}sc
-⚘👾 ${prefix}tqto
-⚘👾 ${prefix}donasi
-⚘👾 ${prefix}rules
-⚘👾 ${prefix}sewabot
-⚘👾 ${prefix}listgc
-⚘👾 ${prefix}liston
-⚘👾 ${prefix}liston
-⚘👾 ${prefix}report
-⚘👾 ${prefix}req
 `
 }
 
 //MENU AWAL
 exports.smenu = (pushname) => {
 	return`Halo Kak *${pushname}* 👋
-Saya Adalah *Ryubotz MD* Yang Direcode Oleh Ryuuka Team Menggunakan Base Dari Dika Ardnt (Hisoka-Morou)
+Saya Adalah *BOT* Yang Direcode Oleh Ryuuka Team Menggunakan Base Dari Dika Ardnt (Hisoka-Morou)
 
 Perlu Diketahui Bot Ini Memakai Program Multi Device Beta Dari WhatsApp Messenger.
 
