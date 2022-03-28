@@ -228,18 +228,10 @@ Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 ⚘☢ ${prefix}semoji [emoji]
 
 *👨‍🎨 TEXTPRO MENU*
-⚘👾 ${prefix}serti1 [teks]
-⚘👾 ${prefix}serti2 [teks]
-⚘👾 ${prefix}serti3 [teks]
 ⚘👾 ${prefix}blackpink [teks]
 ⚘👾 ${prefix}neon [teks]
-⚘👾 ${prefix}magma [teks]
-⚘👾 ${prefix}3dstone [teks]
-⚘👾 ${prefix}halloween [teks]
 ⚘👾 ${prefix}horror [teks]
-⚘👾 ${prefix}larva [teks]
 ⚘👾 ${prefix}toxic [teks]
-⚘👾 ${prefix}marvel [teks|teks]
 ⚘👾 ${prefix}potter [teks]
 ⚘👾 ${prefix}pornhub [teks|teks]
 ⚘👾 ${prefix}tahta [teks]
@@ -248,10 +240,8 @@ Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 ⚘💸 ${prefix}simi [teks]
 ⚘💸 ${prefix}ping
 ⚘💸 ${prefix}owner
-⚘💸 ${prefix}creator
 ⚘💸 ${prefix}menu / ${prefix}help / ${prefix}?
 ⚘💸 ${prefix}delete
-⚘💸 ${prefix}sc
 `
 }
 
