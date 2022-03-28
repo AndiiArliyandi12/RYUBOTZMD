@@ -4,11 +4,10 @@
 exports.welkam = () => {
 	return `New Mem? Intro Gblk 🤙
 
-📛 Nama : 
-🏙️ Askot :
+🪄 Nama : 
+🉐 Askot :
 👙 Ukuran BH : 
 
-Kalo Punya Bkp, Sabi Kali Oper-Oper :v
 `
 }
 
