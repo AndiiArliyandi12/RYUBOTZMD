@@ -16,13 +16,13 @@ global.owner = ['6285891708874','6285719116912'] //Kalo Mau Lebih Tambahin Aja
 global.nomerowner = '6285891708874' //Owner Utama Istilahnya
 global.namabot = '𝕭𝖔𝖙 • Andii∅ ༢࿔ྀ' //Ganti Jadi Nama Botmu
 global.packname = '© 𝕭𝖔𝖙 • Andii∅ ༢࿔ྀ' //Sticker Weem
-global.author = 'Ryubotz By 𝕭𝖔𝖙 • Andii∅ ༢࿔ྀ Team' //Sticker Weem
-global.webme = 'https://api-ryubotz.herokuapp.com'
+global.author = '𝕭𝖔𝖙 • Andii∅ ༢࿔ྀ' //Sticker Weem
+global.webme = 'https://www.hentai.com'
 global.sessionName = 'session'
 global.bg_welcome = 'https://telegra.ph/file/528b594d5d91c08482515.jpg' //Max 30kb Agar Tidak Delay
 global.youtube = 'https://youtube.com/c/F'
 global.github = 'https://github.com/F'
-global.instagram = 'https://instagram.com/F._'
+global.instagram = 'https://instagram.com/F'
 
 //===> BACKGROUND SETIAP MENU
 global.bg1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
