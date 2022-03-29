@@ -5,22 +5,22 @@ exports.allmenu = (prefix) => {
 	return`Apakah Kamu Tau?
 Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 
-*👤 OWNER MENU*
-⚘🉐 ${prefix}setmenu
-⚘🉐 ${prefix}join [link]
-⚘🉐 ${prefix}leave
-⚘🉐 ${prefix}self
-⚘🉐 ${prefix}public
-⚘🉐 ${prefix}setppbot
-⚘🉐 ${prefix}block @user
-⚘🉐 ${prefix}unblock @user
-⚘🉐 ${prefix}bc
-⚘🉐 ${prefix}bcgc
-⚘🉐 ${prefix}setcmd [reply sticker/pesan]
-⚘🉐 ${prefix}delcmd [reply sticker/pesan]
-⚘🉐 ${prefix}listcmd
-⚘🉐 ${prefix}lockcmd
-⚘🉐 ${prefix}promosi
+*👤 𝕭𝖔𝖙 • Andii ༢࿔ྀ MENU*
+🌋 ${prefix}setmenu
+🌋 ${prefix}join [link]
+🌋 ${prefix}leave
+🌋 ${prefix}self
+🌋 ${prefix}public
+🌋 ${prefix}setppbot
+🌋 ${prefix}block @user
+🌋 ${prefix}unblock @user
+🌋 ${prefix}bc
+🌋 ${prefix}bcgc
+🌋 ${prefix}setcmd [reply sticker/pesan]
+🌋 ${prefix}delcmd [reply sticker/pesan]
+🌋 ${prefix}listcmd
+🌋 ${prefix}lockcmd
+🌋 ${prefix}promosi
 
 *👥 GROUP MENU*
 ⚘☣ ${prefix}antilink
@@ -68,24 +68,6 @@ Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 ⚘🪄 ${prefix}nuliskiri
 ⚘🪄 ${prefix}foliokanan
 ⚘🪄 ${prefix}foliokiri
-
-*👭 ASUPAN MENU*
-⚘👾 ${prefix}hijaber
-⚘👾 ${prefix}cecan
-⚘👾 ${prefix}bocil
-⚘👾 ${prefix}ukhty
-⚘👾 ${prefix}gheayubi
-⚘👾 ${prefix}rikagusriani
-⚘👾 ${prefix}santuy
-
-*👩 CECAN MENU*
-⚘👾 ${prefix}china
-⚘👾 ${prefix}vietnam
-⚘👾 ${prefix}thailand
-⚘👾 ${prefix}indonesia
-⚘👾 ${prefix}korea
-⚘👾 ${prefix}japan
-⚘👾 ${prefix}malaysia
 
 *🎙️ VOICE CHANGER*
 ⚘🖇 ${prefix}bass
@@ -143,19 +125,14 @@ Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 ⚘🔮 ${prefix}kuismath
 
 *🎡 RANDOM MENU*
-⚘🧿 ${prefix}darkjokes
-⚘🧿 ${prefix}meme
 ⚘🧿 ${prefix}quotes
 ⚘🧿 ${prefix}quotes2
 ⚘🧿 ${prefix}katabijak
-⚘🧿 ${prefix}wallgaming
 ⚘🧿 ${prefix}wallpentol
 ⚘🧿 ${prefix}wallcogan
 ⚘🧿 ${prefix}wallcecan
 ⚘🧿 ${prefix}wallestetik
 ⚘🧿 ${prefix}wallislami
-⚘🧿 ${prefix}wallbkackpink
-⚘🧿 ${prefix}wallpaperanime
 
 *⛩️ ANIME MENU*
 ⚘👾 ${prefix}quotesanime
