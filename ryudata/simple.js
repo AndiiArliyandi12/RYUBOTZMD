@@ -8,9 +8,9 @@ exports.simple = (pushname, ucapanWaktu, prefix) => {
 	return`*Halo Kak ${pushname} 👋*
 *${ucapanWaktu}*
 
-Ketik .allmenu Untuk Menampilkan Fitur !
+📌 Ketik .allmenu Untuk Menampilkan Fitur ❗
 
-© 𝕭𝖔𝖙 • Andii ༢࿔ྀ
+
 `
 }
 
