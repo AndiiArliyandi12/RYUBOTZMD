@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 exports.allmenu = (prefix) => {
-	return`Apakah Kamu Tau?
-Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
+	return`Kamu Aneh, Aku Kesel !
+Kmtl , Ehh Maaf Becanda :v
 
 *👤 𝕭𝖔𝖙 • Andii ༢࿔ྀ MENU*
 🌋 ${prefix}setmenu
@@ -23,28 +23,27 @@ Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 🌋 ${prefix}promosi
 
 *👥 GROUP MENU*
-⚘☣ ${prefix}antilink
-⚘☣ ${prefix}antiwame
-⚘☣ ${prefix}antivirtex
-⚘☣ ${prefix}nsfw
-⚘☣ ${prefix}afk [alasan]
-⚘☣ ${prefix}tagall
-⚘☣ ${prefix}hidetag
-⚘☣ ${prefix}absen
-⚘☣ ${prefix}hadir
-⚘☣ ${prefix}tidakhadir
-⚘☣ ${prefix}cekabsen
-⚘☣ ${prefix}hapusabsen
-⚘☣ ${prefix}linkgroup
-⚘☣ ${prefix}revoke
-⚘☣ ${prefix}ephemeral [option]
-⚘☣ ${prefix}setppgc
-⚘☣ ${prefix}setname [text]
-⚘☣ ${prefix}group [option]
-⚘☣ ${prefix}add @user
-⚘☣ ${prefix}kick @user
-⚘☣ ${prefix}promote @user
-⚘☣ ${prefix}demote @user
+🉐 ${prefix}antilink
+🉐 ${prefix}antiwame
+🉐 ${prefix}antivirtex
+🉐 ${prefix}afk [alasan]
+🉐 ${prefix}tagall
+🉐 ${prefix}hidetag
+🉐 ${prefix}absen
+🉐 ${prefix}hadir
+🉐 ${prefix}tidakhadir
+🉐 ${prefix}cekabsen
+🉐 ${prefix}hapusabsen
+🉐 ${prefix}linkgroup
+🉐 ${prefix}revoke
+🉐 ${prefix}ephemeral [option]
+🉐 ${prefix}setppgc
+🉐 ${prefix}setname [text]
+🉐 ${prefix}group [option]
+🉐 ${prefix}add @user
+🉐 ${prefix}kick @user
+🉐 ${prefix}promote @user
+🉐 ${prefix}demote @user
 
 *📦 DOWNLOAD MENU*
 📲 ${prefix}tiktok [url]
@@ -83,16 +82,16 @@ Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 ⚘🖇 ${prefix}tupai
 
 *📸 EPHOTO MENU*
-⚘👾 ${prefix}3dnature
-⚘👾 ${prefix}bevel
-⚘👾 ${prefix}burnpaper
-⚘👾 ${prefix}quotesgrass
-⚘👾 ${prefix}stars
-⚘👾 ${prefix}flaming
-⚘👾 ${prefix}romance
-⚘👾 ${prefix}gerbang
-⚘👾 ${prefix}fur
-⚘👾 ${prefix}funnycup
+⚘🧼 ${prefix}3dnature
+⚘🧼 ${prefix}bevel
+⚘🧼 ${prefix}burnpaper
+⚘🧼 ${prefix}quotesgrass
+⚘🧼 ${prefix}stars
+⚘🧼 ${prefix}flaming
+⚘🧼 ${prefix}romance
+⚘🧼 ${prefix}gerbang
+⚘🧼 ${prefix}fur
+⚘🧼 ${prefix}funnycup
 
 *🖼️ PHOTOOXY MENU*
 ⚘👾 ${prefix}3d-underwater  
@@ -134,41 +133,6 @@ Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 ⚘🧿 ${prefix}wallestetik
 ⚘🧿 ${prefix}wallislami
 
-*⛩️ ANIME MENU*
-⚘👾 ${prefix}quotesanime
-⚘👾 ${prefix}wallpaper
-⚘👾 ${prefix}waifu
-⚘👾 ${prefix}loli
-⚘👾 ${prefix}cry
-⚘👾 ${prefix}kill
-⚘👾 ${prefix}hug
-⚘👾 ${prefix}pat
-⚘👾 ${prefix}lick
-⚘👾 ${prefix}kiss
-⚘👾 ${prefix}bite
-⚘👾 ${prefix}yeet
-⚘👾 ${prefix}neko
-⚘👾 ${prefix}bully
-⚘👾 ${prefix}bonk
-⚘👾 ${prefix}wink
-⚘👾 ${prefix}poke
-⚘👾 ${prefix}nom
-⚘👾 ${prefix}slap
-⚘👾 ${prefix}smile
-⚘👾 ${prefix}wave
-⚘👾 ${prefix}awoo
-⚘👾 ${prefix}blush
-⚘👾 ${prefix}smug
-⚘👾 ${prefix}glomp
-⚘👾 ${prefix}happy
-⚘👾 ${prefix}dance
-⚘👾 ${prefix}cringe
-⚘👾 ${prefix}cuddle
-⚘👾 ${prefix}highfive
-⚘👾 ${prefix}shinobu
-⚘👾 ${prefix}megumin
-⚘👾 ${prefix}handhold
-
 *🔞 NSFW MENU*
 ⚘⛔ ${prefix}ahegeo
 ⚘⛔ ${prefix}ass
@@ -205,13 +169,13 @@ Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 ⚘☢ ${prefix}semoji [emoji]
 
 *👨‍🎨 TEXTPRO MENU*
-⚘👾 ${prefix}blackpink [teks]
-⚘👾 ${prefix}neon [teks]
-⚘👾 ${prefix}horror [teks]
-⚘👾 ${prefix}toxic [teks]
-⚘👾 ${prefix}potter [teks]
-⚘👾 ${prefix}pornhub [teks|teks]
-⚘👾 ${prefix}tahta [teks]
+⚘🧧 ${prefix}blackpink [teks]
+⚘🧧 ${prefix}neon [teks]
+⚘🧧 ${prefix}horror [teks]
+⚘🧧 ${prefix}toxic [teks]
+⚘🧧 ${prefix}potter [teks]
+⚘🧧 ${prefix}pornhub [teks|teks]
+⚘🧧 ${prefix}tahta [teks]
 
 *☕ OTHER MENU*
 ⚘💸 ${prefix}simi [teks]
