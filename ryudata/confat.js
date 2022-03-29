@@ -27,22 +27,22 @@ exports.notLink = () => {
 
 // Message Sukses Menambahkan User Ke Grup
 exports.addUser =() => {
-	return `Sukses Menambahkan User Ke Grup ☑️`
+	return `Sukses Menambahkan Si Kmtd ☑️`
 }
 
 // Message Sukses Kick User Dari Grup
 exports.kickUser =() => {
-	return `Sukses Kick User Dari Grup ☑️`
+	return `Si Babi Telah Di Kick  ☑️`
 }
 
 // Message Promote User
 exports.proMote =() => {
-	return `Sukses Menaikkan Jabatan User ☑️`
+	return `Si Babi Telah Menjadi Admin ☑️`
 }
 
 // Message Demote User
 exports.deMote =() => {
-	return `Sukses Menurunkan Jabatan User ☑️`
+	return `Lu Ga Guna , Jadi Gua UnAdmin ☑️`
 }
 
 // Message Ubah Nama Grup
