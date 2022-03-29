@@ -1,16 +1,16 @@
 exports.promosi1 = () => {
-	return`Ready Vps/Rdp Murah
+	return`OPEN MEMBER !!!
 
-Minat Chat
-wa.me/-
+❥ࣲ፝֟͜͡◔⃟➣ ᴘʀɪᴠᴀᴛᴇ 𝕭𝕯ᴮᴷᴾ ㊧
+
+http://Wa.me/+6281334832104
 `
 }
 
 exports.promosi2 = () => {
 	return`Ready Lonte Murah
 
-Minat Chat
-wa.me/-
+
 `
 }
 
