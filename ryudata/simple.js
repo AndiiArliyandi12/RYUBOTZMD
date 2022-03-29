@@ -8,31 +8,9 @@ exports.simple = (pushname, ucapanWaktu, prefix) => {
 	return`*Halo Kak ${pushname} 👋*
 *${ucapanWaktu}*
 
-Berikut List Menu Yang Tersedia !
+Ketik .allmenu Untuk Menampilkan Fitur !
 
-❥ࣲ፝֟͜͡◔⃟➣ ${prefix}allmenu
-❥ࣲ፝֟͜͡◔⃟➣ ${prefix}ownermenu
-❥ࣲ፝֟͜͡◔⃟➣ ${prefix}groupmenu
-❥ࣲ፝֟͜͡◔⃟➣ ${prefix}downloadmenu
-❥ࣲ፝֟͜͡◔⃟➣ ${prefix}searchmenu
-❥ࣲ፝֟͜͡◔⃟➣ ${prefix}nulismenu
-❥ࣲ፝֟͜͡◔⃟➣ ${prefix}infomenu
-❥ࣲ፝֟͜͡◔⃟➣ ${prefix}asupanmenu
-❥ࣲ፝֟͜͡◔⃟➣ ${prefix}cecanmenu
-❥ࣲ፝֟͜͡◔⃟➣ ${prefix}cecanmenu
-❥ࣲ፝֟͜͡◔⃟➣ ${prefix}voicemenu
-❥ࣲ፝֟͜͡◔⃟➣ ${prefix}ephotomenu
-❥ࣲ፝֟͜͡◔⃟➣ ${prefix}photooxymenu
-❥ࣲ፝֟͜͡◔⃟➣ ${prefix}funmenu
-❥ࣲ፝֟͜͡◔⃟➣ ${prefix}gamemenu
-❥ࣲ፝֟͜͡◔⃟➣ ${prefix}randommenu
-❥ࣲ፝֟͜͡◔⃟➣ ${prefix}animemenu
-❥ࣲ፝֟͜͡◔⃟➣ ${prefix}nsfwmenu
-❥ࣲ፝֟͜͡◔⃟➣ ${prefix}makermenu
-❥ࣲ፝֟͜͡◔⃟➣ ${prefix}textpromenu
-❥ࣲ፝֟͜͡◔⃟➣ ${prefix}othermenu
-
-❥ࣲ፝֟͜͡◔⃟➣ ᴘʀɪᴠᴀᴛᴇ 𝕭𝕯ᴮᴷᴾ ㊧
+© 𝕭𝖔𝖙 • Andii ༢࿔ྀ
 `
 }
 
@@ -297,26 +275,21 @@ exports.srandom = (prefix) => {
 Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 
 *🎡 RANDOM MENU*
-⚘👾 ${prefix}darkjokes
-⚘👾 ${prefix}meme
-⚘👾 ${prefix}quotes
-⚘👾 ${prefix}quotes2
-⚘👾 ${prefix}katabijak
-⚘👾 ${prefix}wallgaming
-⚘👾 ${prefix}wallpentol
-⚘👾 ${prefix}wallcogan
-⚘👾 ${prefix}wallcecan
-⚘👾 ${prefix}wallestetik
-⚘👾 ${prefix}wallislami
-⚘👾 ${prefix}wallbkackpink
-⚘👾 ${prefix}wallpaperanime
+⚘🧿 ${prefix}quotes
+⚘🧿 ${prefix}quotes2
+⚘🧿 ${prefix}katabijak
+⚘🧿 ${prefix}wallpentol
+⚘🧿 ${prefix}wallcogan
+⚘🧿 ${prefix}wallcecan
+⚘🧿 ${prefix}wallestetik
+⚘🧿 ${prefix}wallislami
 `
 }
 
 //MENU ANIME
 exports.sanime = (prefix) => {
 	return`Media Sosial 🌱
-IG : Fandyyy._
+IG : -._
 
 *⛩️ ANIME MENU*
 ⚘👾 ${prefix}quotesanime
