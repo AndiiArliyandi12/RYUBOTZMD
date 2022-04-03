@@ -5,7 +5,7 @@ exports.allmenu = (prefix) => {
 	return`Kamu Aneh, Aku Kesel !
 Kmtl , Ehh Maaf Becanda :v
 
-*👤 𝕭𝖔𝖙 • Andii༢࿔ྀ MENU*
+*👤 𝕭𝖔𝖙 • Andii ༢࿔ྀ MENU*
 🌋 ${prefix}setmenu
 🌋 ${prefix}join [link]
 🌋 ${prefix}leave
