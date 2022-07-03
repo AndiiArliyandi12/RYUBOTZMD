@@ -12,8 +12,8 @@ global.APIKeys = {
 
 //===> UBAH DISINI
 global.namaowner = '𝕭𝖔𝖙 • Andii∅ ༢࿔ྀ' //Ganti Jadi Namamu
-global.owner = ['6285891708874','6285719116912'] //Kalo Mau Lebih Tambahin Aja
-global.nomerowner = '6285891708874' //Owner Utama Istilahnya
+global.owner = ['6281285578808','6281285578808'] //Kalo Mau Lebih Tambahin Aja
+global.nomerowner = '6281285578808' //Owner Utama Istilahnya
 global.namabot = '𝕭𝖔𝖙 • Andii∅ ༢࿔ྀ' //Ganti Jadi Nama Botmu
 global.packname = '© 𝕭𝖔𝖙 • Andii∅ ༢࿔ྀ' //Sticker Weem
 global.author = '𝕭𝖔𝖙 • Andii∅ ༢࿔ྀ' //Sticker Weem
